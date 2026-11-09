@@ -1,0 +1,6 @@
+{
+  "name": "GameArena - Arène Multijoueur & Jeux de Société",
+  "description": "Plateforme multijoueur de jeux de plateau et d'arène (Échecs, Dames, Ludo, Empire Monopoly, Fruit Arena) avec commentateur IA vocal NOVA, Mode Hacking et Mode Empire Roi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
